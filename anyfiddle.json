@@ -1,0 +1,10 @@
+{
+  "openFiles": [
+      "src/App.js",
+      "src/App.css"
+  ],
+  "port": 3000,
+  "defaultCommand": "npm start",
+  "preview": true,
+  "autorun": true
+}
